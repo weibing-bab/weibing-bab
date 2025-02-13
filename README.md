@@ -1,4 +1,4 @@
-# Hi there, I'm WeiBing 👋
+# Hi there, I'm Wei Bing 👋
 
 I'm a Test Development Engineer
 
@@ -34,11 +34,10 @@ I'm a Test Development Engineer
 - JUnit, TestNG
 - Pytest
 - Robot Framework
+- ...
 
 ## Connect with me:
-<p align="left">
-<a href="your-linkedin-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+📫 Reach me at: [weibgg@163.com](mailto:weibgg@163.com)
 
 ## Languages:
 - English
