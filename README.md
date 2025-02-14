@@ -29,16 +29,9 @@ I'm a Test Development Engineer
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-### Testing Frameworks:
-- Selenium, Appium
-- JUnit, TestNG
-- Pytest
-- Robot Framework
-- ...
-
 ## Connect with me:
 📫 Reach me at: [weibgg@163.com](mailto:weibgg@163.com)
 
 ## Languages:
-- English
 - Chinese
+- English
